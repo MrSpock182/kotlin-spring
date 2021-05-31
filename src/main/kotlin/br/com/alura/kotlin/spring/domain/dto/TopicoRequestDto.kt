@@ -1,4 +1,4 @@
-package br.com.alura.kotlin.spring.domain
+package br.com.alura.kotlin.spring.domain.dto
 
 data class TopicoRequestDto(
     val titulo: String,
